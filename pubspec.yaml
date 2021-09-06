@@ -1,7 +1,7 @@
 name: spacex_gallery
 description: A new Flutter project.
 
-publish_to: 'none' 
+publish_to: 'none'
 
 version: 0.0.1
 
@@ -9,44 +9,22 @@ environment:
   sdk: ">=2.13.4 <3.0.0"
 
 dependencies:
+  cached_network_image: ^3.1.0
   flutter:
     sdk: flutter
+  flutter_bloc: ^7.2.0
+  get_it: ^7.2.0
+  graphql: ^5.0.0
+  html: ^0.15.0
+  no_shimmer: ^0.0.2
+  path: ^1.8.0
+  postor: ^0.0.4
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  lint: ^1.6.0
 
 flutter:
-  
+
   uses-material-design: true
-
-  
-  
-  
-  
-
-  
-  
-
-  
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
